@@ -19,3 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToMaskedUrl('google.com')
 
+WebUI.acceptAlert()
+
+WebUI.check(findTestObject(null))
+
+WebUI.click(findTestObject(null))
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
